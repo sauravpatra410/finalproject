@@ -1,5 +1,6 @@
 import boto3
 import newline
+import newline added by saurav branch
 # Create EC2 client
 ec2 = boto3.resource('ec2', region_name='ap-south-1')  # Change region as needed
 
