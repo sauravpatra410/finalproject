@@ -1,4 +1,4 @@
-import linux
+import aws
 import newline
 import newline added by saurav branch
 # Create EC2 client
