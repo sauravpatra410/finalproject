@@ -1,4 +1,4 @@
-import boto3
+import linux
 import newline
 import newline added by saurav branch
 # Create EC2 client
